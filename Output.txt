@@ -1,0 +1,21 @@
+BANKING PROCESS
+1.Create New Account 
+2.Cash Deposit
+3.Cash Withdraw 
+4.Low Balance Enquiry 
+5.Exit
+Enter your Choice:1
+********************
+NEW ACCOUNT CREATION
+********************
+your Account Number is: 1001 
+Enter your name: Thejas
+your deposit is minimum Rs.500
+*********
+Following Account Holder's Balance<1000
+**************** 
+Account number:1001
+Name:Thejas
+Account number:1002 
+Name:Kumar
+***********
